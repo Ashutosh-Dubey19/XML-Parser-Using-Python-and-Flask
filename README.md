@@ -1,2 +1,2 @@
-# XML-Parser-Using-Python-and-Flask
-created a flask server where you can upload xml file and download excel file 
+# xml-parsing-with-python
+extract data from xml file conver to excel with flask api
